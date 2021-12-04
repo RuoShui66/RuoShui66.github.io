@@ -3,11 +3,11 @@
   <title>若水</title>
   
   
-  <link href="http://ruoshui66.github.io/project/atom.xml" rel="self"/>
+  <link href="http://ruoshui66.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ruoshui66.github.io/project/"/>
+  <link href="http://ruoshui66.github.io/"/>
   <updated>2021-12-04T15:42:18.942Z</updated>
-  <id>http://ruoshui66.github.io/project/</id>
+  <id>http://ruoshui66.github.io/</id>
   
   <author>
     <name>RoWater</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>开篇</title>
-    <link href="http://ruoshui66.github.io/project/2021/12/04/%E5%BC%80%E7%AF%87/"/>
-    <id>http://ruoshui66.github.io/project/2021/12/04/%E5%BC%80%E7%AF%87/</id>
+    <link href="http://ruoshui66.github.io/2021/12/04/%E5%BC%80%E7%AF%87/"/>
+    <id>http://ruoshui66.github.io/2021/12/04/%E5%BC%80%E7%AF%87/</id>
     <published>2021-12-04T15:18:31.000Z</published>
     <updated>2021-12-04T15:42:18.942Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="感悟" scheme="http://ruoshui66.github.io/project/tags/%E6%84%9F%E6%82%9F/"/>
+    <category term="感悟" scheme="http://ruoshui66.github.io/tags/%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
